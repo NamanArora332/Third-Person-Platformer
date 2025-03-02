@@ -169,7 +169,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainCamera: {fileID: 330585545}
   moveForce: 750
-  maxSpeed: 2.5
+  maxSpeed: 3
   jumpForce: 5
 --- !u!54 &188003239
 Rigidbody:
